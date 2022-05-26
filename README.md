@@ -1,4 +1,4 @@
-Temporary repository for the paper: Rethinking Counterfactual Explanations as Local and Regional Counterfactual Policies.
+Temporary repository for the paper: **Rethinking Counterfactual Explanations as Local and Regional Counterfactual Policies**.
 
 *Counterfactual Rules* (CR) is a python package that gives Counterfactual Explanations as Rules. For any individual or sub-population, it gives
  the simplest policies (rules) that change the decision with high probability.
